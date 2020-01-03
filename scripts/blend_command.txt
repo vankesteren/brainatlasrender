@@ -1,0 +1,1 @@
+blender -b -Y dkt_map/DKT_atlas.blend -P dkt_map/scripts/execute.py
